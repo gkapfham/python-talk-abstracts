@@ -1,6 +1,6 @@
 # Using GitHub, Travis CI, and Python to Introduce Collaborative Software Development
 
-## Talk presented at PyCon Education Summit 2018
+## Talk Presented at PyCon Education Summit 2018
 
 ## Abstract
 
