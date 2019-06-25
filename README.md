@@ -31,3 +31,11 @@ at Python-related conferences:
 
 - [PyGotham 2018: Using Python, Travis CI, and GitHub to Effectively Teach
   Programming](pygotham_2018_teaching_programming.md)
+
+## Problems or Praise
+
+If you have any problems with this list of abstracts for Python-related
+presentations, then please raise an issue associated with this Git repository
+using the "Issues" link at the top of the site. I will do everything that I can
+to resolve your issue and ensure that the presentation works correctly. If you
+appreciated this repository and its talk abstracts, then please star it!
