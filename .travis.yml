@@ -22,3 +22,4 @@ script:
   - mdl pygotham_2018_teaching_programming.md
   - mdl pycon_2019_psuedotested_methods.md
   - mdl pycon_2019_group_formation.md
+  - mdl pyohio_2019_text_editors.md
