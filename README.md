@@ -16,3 +16,6 @@ at Python-related conferences:
 - [PyCon 2018 Education Summit: Using GitHub, Travis CI, and Python to
   Introduce Collaborative Software
   Development](pycon_2018_collaborative_software.md)
+
+- [PyOhio 2018: A Hands-On Guide to Teaching Programming with GitHub, Travis
+  CI, and Python](pyohio_2018_teaching_programming.md)
