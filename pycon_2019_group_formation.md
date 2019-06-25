@@ -14,8 +14,8 @@ is time consuming and error-prone, instructors need automated tools to support
 this process.
 
 This poster will explain how to use the Python programming language and the
-GitHub platform to form and assess student teams. After introducing surveys that
-capture student interests and skills, the poster will show how to use the
+GitHub platform to create and assess student teams. After introducing surveys
+that capture student interests and skills, the poster will show how to use the
 [GatorGrouper tool](https://github.com/GatorEducator/gatorgrouper) that forms
 teams according to the survey results, a student roster, and the desired number
 and size of the teams. In addition to introducing the behavior and trade-offs
@@ -34,8 +34,8 @@ information to ensure that, for instance, the team effectively shared the
 assignment's workload and each student made acceptable individual contributions.
 
 Software engineering and programming educators who visit this poster will learn
-how the Python language and the GitHub platform support simple ways to form and
-assess teams. Accessible to educators from a wide variety of backgrounds and
+how the Python language and the GitHub platform support simple ways to create
+and assess teams. Accessible to educators from a wide variety of backgrounds and
 skill levels, this poster will explain how teachers can use tools, like
 GatorGrouper, GatorGrader, and GitHub, to ensure that students master the
 real-world skills that will enable them to be effective software engineers.
