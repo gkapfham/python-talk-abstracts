@@ -1,5 +1,7 @@
 # Using GitHub, Travis CI, and Python to Introduce Collaborative Software Development
 
+## Talk presented at PyCon Education Summit 2018
+
 ## Abstract
 
 Real-world software engineering is collaborative, commonly involving the use of
