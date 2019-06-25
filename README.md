@@ -13,6 +13,9 @@ up-to-date web sites and GitHub repositories.
 This is a summary of the files containing abstracts for talks that I have given
 at Python-related conferences:
 
+- [PyCon 2019 Poster Symposium: Automatic Detection of Pseudo-tested Methods
+  Using Python and Pytest](pycon_2019_psuedotested_methods.md)
+
 - [PyCon 2018 Education Summit: Using GitHub, Travis CI, and Python to
   Introduce Collaborative Software
   Development](pycon_2018_collaborative_software.md)
