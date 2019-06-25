@@ -20,39 +20,28 @@ features including fuzzy file finding and code navigation, auto-completion,
 source code highlighting, linting, testing, virtual environments, and snippets.
 For VS Code and Vim, these selected features showcase what is most important to
 a Python programmer, highlighting the trade-offs and benefits of both text
-editors.
+editors. Using a Pytest plugin as a running example, here are some topics that
+we will cover in this presentation:
 
-Fuzzy file finding—the ability to open a file automatically through searching
-one or more words associated with a specific name—is an essential feature for
-programmers. Microsoft has an extension which makes fuzzy file searching
-accessible for Visual Studio Code users. The most popular Vim plugins for this
-feature are ctrlp.vim and FZF, which are both widely accessible. For both VScode
-and Vim, fuzzy file finding is comparable in usage, making both text editors
-effective in enhancing a Python programmer’s workflow. Another feature related
-to fuzzy file finding is code navigation. Both Visual Studio Code and Vim have
-features for code navigation. With that said, code navigation in VS Code is
-easier to use and configure. than the feature for Vim through valuable how-to
-guides and a simple user interface.
+- **Fuzzy File Finding**: Rapidly search for files in your project with names
+  that match a pattern.
 
-In contrast to fuzzy file searching, auto-completion is a feature for which VS
-Code is emerges as the current winner over Vim. With Microsoft’s implementation
-of IntelliSense—their own Language Server Protocol or LSP—in addition to an
-easy-to-install extension for Python, auto-completion with Visual Studio Code
-makes the code-writing process much smoother. IntelliSense provides code
-completions that are based on an analysis of source code, along with the
-language semantics of a programmer’s code. This feature is almost incomparable
-to the plugins required for Vim auto-completion features, or it’s LSP, which is
-still in its infancy.
+- **Source Code Highlighting**: Bring clarify by applying colors and fonts to
+  your source code and technical writing.
 
-A feature of Vim that is far past its infancy—and has transcended well into a
-necessity—is source code highlighting. Often overlooked when considering the
-essentials of Python programming, source code highlighting can assist
-tremendously when a programmer reviews code. In Visual Studio Code and Vim,
-source code highlighting is available through simple extensions, though Vim
-provides a much more configurable version. With that said, VSCode furnishes a
-more user-friendly interface for setting exact requirements for highlighting.
-Even with a slightly higher learning curve, Vim’s extensive highlighting
-configurations are worth it.
+- **Autocompletion**: Save time by quickly substituting partial code and text
+  segments with the desired content.
+
+Ultimately, this presentation will demonstrate that both VS Code and Vim are
+outstanding text editors for Python, with features that can assist in many
+everyday programming tasks. In different ways, and possibly with different
+disadvantages or benefits, these text editors improve a programmer's efficiency
+and effectiveness, becoming an indispensable part of a workflow. With the
+knowledge of the features that VS Code and Vim offer, the audience will be able
+to choose which editor is best for them, emerging with the know-how to configure
+it to their preferences for Python programming. Both beginners and experts alike
+will be capable of finding their feature fit for a text editor that supports
+Python programming!
 
 Linting and automated code formatting are features used by many programmers in
 the Python community. The ability of a plugin to access code and format it by
@@ -98,11 +87,3 @@ writing code, along with assisting in avoidance of mistakes. Snippets make
 Python programming more efficient and more effective, whether VS Code or Vim is
 used.
 
-VS Code and Vim are outstanding text editors for Python, with features that can
-assist in everyday programming tasks. In different ways, and possibly with
-different disadvantages or benefits, these text editors improve efficiency,
-effectiveness, readability, workflow, and code review. With this knowledge of
-features that VS Code and Vim offer, the audience will be able to choose which
-editor is best for them, emerging with the know-how to configure it to their
-Python preferences. Both beginners and experts alike will be capable of finding
-their feature fit for a text editor to support Python programming!
