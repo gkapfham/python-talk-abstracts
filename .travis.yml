@@ -18,3 +18,5 @@ script:
   - mdl README.md
   - proselint README.md
   - mdl pycon_2018_collaborative_software.md
+  - mdl pyohio_2018_teaching_programming.md
+  - mdl pygotham_2018_teaching_programming.md
