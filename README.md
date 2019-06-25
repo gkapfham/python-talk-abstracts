@@ -1,5 +1,7 @@
 # python-talk-abstracts
 
+[![Build Status](https://travis-ci.com/gkapfham/python-talk-abstracts.svg?branch=master)](https://travis-ci.com/gkapfham/python-talk-abstracts)
+
 This repository contains Markdown files of the abstracts for talks that I,
 [Gregory M. Kapfhammer](https://www.gregorykapfhammer.com/), have given at
 Python-related conferences, often in collaboration with my students and
