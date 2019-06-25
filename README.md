@@ -13,6 +13,6 @@ up-to-date web sites and GitHub repositories.
 This is a summary of the files containing abstracts for talks that I have given
 at Python-related conferences:
 
-- [Using GitHub, Travis CI, and Python to Introduce Collaborative Software
-  Development at the PyCon 2018 Education
-  Summit](pycon_2018_collaborative_software.md)
+- [PyCon 2018 Education Summit: Using GitHub, Travis CI, and Python to
+  Introduce Collaborative Software
+  Development](pycon_2018_collaborative_software.md)
