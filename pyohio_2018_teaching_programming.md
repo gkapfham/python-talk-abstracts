@@ -1,6 +1,6 @@
 # A Hands-On Guide to Teaching Programming with GitHub, Travis CI, and Python
 
-## Talk presented at PyOhio 2018
+## Talk Presented at PyOhio 2018
 
 ## Brief Description
 
