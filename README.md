@@ -19,3 +19,6 @@ at Python-related conferences:
 
 - [PyOhio 2018: A Hands-On Guide to Teaching Programming with GitHub, Travis
   CI, and Python](pyohio_2018_teaching_programming.md)
+
+- [PyGotham 2018: Using Python, Travis CI, and GitHub to Effectively Teach
+  Programming](pygotham_2018_teaching_programming.md)
