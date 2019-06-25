@@ -17,3 +17,4 @@ cache:
 script:
   - mdl README.md
   - proselint README.md
+  - mdl pycon_2018_collaborative_software.md
