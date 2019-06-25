@@ -16,6 +16,9 @@ at Python-related conferences:
 - [PyCon 2019 Poster Symposium: Automatic Detection of Pseudo-tested Methods
   Using Python and Pytest](pycon_2019_psuedotested_methods.md)
 
+- [PyCon 2019 Poster Symposium: Using Python and GitHub for Team Formation and
+  Assessment](pycon_2019_group_formation.md)
+
 - [PyCon 2018 Education Summit: Using GitHub, Travis CI, and Python to
   Introduce Collaborative Software
   Development](pycon_2018_collaborative_software.md)
