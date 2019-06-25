@@ -26,7 +26,7 @@ that we will cover in this presentation:
 - **Fuzzy File Finding**: Rapidly search for files in your project with names
   that match a pattern.
 
-- **Source Code Highlighting**: Bring clarify by applying colors and fonts to
+- **Source Code Highlighting**: Bring clarity by applying colors and fonts to
   your source code and technical writing.
 
 - **Autocompletion**: Save time by quickly substituting partial code and text
@@ -39,11 +39,11 @@ that we will cover in this presentation:
   installing and managing packages in separate development and execution
   environments.
 
-- **Code Snippets**: Save time when programming and testing by inserting full
-  segments based on easy-to-complete keywords.
-
 - **Automated Testing and Debugging**: Establish a confidence in program
   correctness by running test suites and finding and fixing bugs.
+
+- **Code Snippets**: Save time when programming and testing by inserting full
+  segments based on easy-to-complete keywords.
 
 Ultimately, this presentation will demonstrate that both VS Code and Vim are
 outstanding text editors for Python, with features that can assist in many
