@@ -49,9 +49,9 @@ Ultimately, this presentation will demonstrate that both VS Code and Vim are
 outstanding text editors for Python, with features that can assist in many
 everyday programming tasks. In different ways, and possibly with different
 disadvantages or benefits, these text editors improve a programmer's efficiency
-and effectiveness, becoming an indispensable part of a workflow. With the
-knowledge of the features that VS Code and Vim offer, the audience will be able
-to choose which editor is best for them, emerging with the know-how to configure
-it to their preferences for Python programming. Both beginners and experts alike
-will be capable of finding their feature fit for a text editor that supports
-Python programming!
+and effectiveness, becoming an indispensable part of an everyday workflow. With
+the knowledge of the features that VS Code and Vim offer, the audience will be
+able to choose which editor is best for them, emerging with the know-how to
+configure it to their preferences for Python programming. Both beginners and
+experts alike will be capable of finding their "feature fit" for a text editor
+that supports Python programming!
