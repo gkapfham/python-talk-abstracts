@@ -19,7 +19,7 @@ illustrative example of a Python programmer who is implementing a Pytest
 plugin, the talk will introduce and compare features including fuzzy file
 finding and code navigation, auto-completion, source code highlighting,
 linting, testing, virtual environments, and snippets. For VS Code and Vim,
-these selected features showcase some of what is most important to a Python
+these selected features showcase what is often important to a Python
 programmer, highlighting the trade-offs and benefits of both text editors. Here
 are some topics that we will cover in this presentation:
 
