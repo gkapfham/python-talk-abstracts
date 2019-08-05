@@ -11,17 +11,17 @@ using Python.
 
 ## Full Description
 
-This presentation will explore the different features of text editors for
-Python programming. By comparing the capabilities of VS Code and Vim, audiences
-of all skill levels will receive the necessary information to make an informed
-decision about which text editor fits their programming preferences. Using the
-illustrative example of a Python programmer who is implementing a Pytest
-plugin, the talk will introduce and compare features including fuzzy file
-finding and code navigation, auto-completion, source code highlighting,
-linting, testing, virtual environments, and snippets. For VS Code and Vim,
-these selected features showcase what is often important to a Python
-programmer, highlighting the trade-offs and benefits of both text editors. Here
-are some topics that we will cover in this presentation:
+This presentation will explore the different features of text editors for Python
+programming. By comparing the capabilities of VS Code and Vim, audiences of all
+skill levels will receive the necessary information to make an informed decision
+about which text editor fits their programming preferences. Using the
+illustrative example of a Python programmer who is implementing a Python
+program, the talk will introduce and compare features including fuzzy file
+finding and code navigation, auto-completion, source code highlighting, linting,
+testing, virtual environments, and snippets. For VS Code and Vim, these selected
+features showcase what is often important to a Python programmer, highlighting
+the trade-offs and benefits of both text editors. Here are some topics that we
+will cover in this presentation:
 
 - **Fuzzy File Finding**: Rapidly search for files in your project with names
   that match a pattern.
