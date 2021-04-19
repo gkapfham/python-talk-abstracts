@@ -45,3 +45,14 @@ resolve the issues raised by the type checker.
 - How to use the `typing` package to annotate variables with complex types
 - Examples of defects that static type analysis can find when a program has type annotations
 - How to handle the situation in which an imported external package does not have type annotations
+
+## Presenter Biography
+
+Gregory M. Kapfhammer is an Associate Professor of Computer Science at
+Allegheny College. Along with conducting research in the field of software
+engineering, he teaches classes in a variety of technical and scientific areas
+and enjoys programming in Python. In the Python community, Gregory has
+previously given talks at PyGotham and PyOhio, presented posters at PyCon, and
+presented at PyCon's Education Summit. You can learn more about Gregory by
+visiting his web site at https://www.gregorykapfhammer.com/ and checkout
+several of his Python projects at https://github.com/gkapfham.
