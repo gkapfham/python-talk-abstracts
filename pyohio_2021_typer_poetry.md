@@ -6,9 +6,9 @@ Great On Their Own, Even Better Together: Easily Creating Sophisticated Command-
 
 ## Description
 
-Have you ever tried to create a command-line application an extensive
+Have you ever tried to create a command-line application with an extensive
 command-line interface and then upload it to PyPI? If your experience is like
-mine, you might have found the process confusing because there are so many
+mine, then you might have found the process confusing because there are so many
 different tools and configurations from which to choose! The good news is that
 there is a "sweet spot" that this presentation will introduce: using Typer to
 create the command-line interface and Poetry to manage application dependencies
@@ -22,11 +22,12 @@ creating and uploading Python-based command-line applications, this presentation
 will introduce the key ideas behind the use of both Typer and Poetry. The
 presentation will then explain each command that a software developer must use
 to start a Python project with Poetry and to install dependencies like the Typer
-package. Along with sketching the idea for an application with a command-line
-interface and show how to implement it in Typer, the talk will explain how to
-use Poetry to upload the talk to PyPI and use `pipx` to install and run it in an
-isolated environment. People who watch this talk will gain the knowledge that
-they need to easily create full-fledged command-line applications in Python.
+package. Along with sketching the idea for an application that has a
+command-line interface and showing how to implement it in Typer, the talk will
+explain how to use Poetry to upload the application to PyPI and use `pipx` to
+install and run it in an isolated environment. People who watch this talk will
+gain the knowledge that they need to easily create full-fledged command-line
+applications in Python.
 
 ## Additional Details
 
