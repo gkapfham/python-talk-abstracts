@@ -48,8 +48,8 @@ third-party platforms such as Twilio or Slack.
 
 ## Talk Objectives
 
-- The challenges associated with using alternative programs for interface creation and packaging
-- How to use Poetry to create a Python package for a program with a command-line interface
-- The way in which Typer connects a function's type annotations to a program's command-line interface
-- Examples of the commands needed to complete each project step, from creation and building to publishing on PyPI
-- The common pitfalls associated with using Typer and Poetry and easy-to-follow steps for resolving them
+- The challenges associated with using alternative packages for natural language processing
+- How to use spaCy v3's project templates to describe a text classification system in Python
+- The ways in which spaCy and Streamlit support the training, evaluation, packaging of and interaction with a text classifier
+- Examples of the commands needed to complete each step for creating and using a chatbot in Python
+- The common pitfalls associated (e.g., limited or ambiguous training data) with using spaCy to create a chatbot
