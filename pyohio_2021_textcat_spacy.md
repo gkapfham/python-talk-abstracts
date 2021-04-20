@@ -10,21 +10,22 @@ A software developer who wants to create a Python program with a natural
 language interface (e.g., a chatbot) is immediately confronted with a confusing
 variety of packages, configurations, and tutorials. After overviewing why many
 of these options are either difficult to implement or likely to result in a
-sub-standard experience for both developers and the people who interact with the
-chatbot, this presentation will introduce version 3 of the spaCy package for
-natural language processing. Along with explaining why a chatbot needs to
-perform text classification to determine human intent, this talk will highlight
-how spaCy v3 and its new project templates support this challenging task.
+sub-standard experience for either developers or the people who interact with
+the chatbot, this presentation will introduce version 3.0 (v3) of the spaCy
+package for natural language processing. Along with explaining why a chatbot
+needs to perform text classification to determine human intent, this talk will
+highlight how spaCy v3 and its new project templates support this challenging
+task.
 
 The presentation will show how to use Python, spaCy, and Streamlit to convert
 labelled text data to the appropriate format, use this data set to train a
 convolutional neural network for text classification and evaluate the accuracy
 of the learned model. The talk will also explain both how to package the model
 so that others can install it with `pip` and how to create an web-based
-dashboard that supports rapid interaction with the trained text classifier. Even
-though natural language processing is a challenging area, the people who watch
-this talk will gain the knowledge that they need to rapidly create a fast and
-easy-to-use text classifier that integrates into a chatbot.
+dashboard that supports the interaction with the trained text classifier. Since
+natural language processing often seems intimidating without suitable support,
+the people who watch this talk will gain the knowledge that they need to rapidly
+create a fast and easy-to-use text classifier that integrates into a chatbot.
 
 ## Additional Details
 
@@ -37,11 +38,13 @@ source code for the presentation slides. Both of these repositories will make it
 possible for the people who watch the presentation to recreate all aspects of it
 for their own talks and videos. The presenter will also offer another repository
 that contains all the presented source code segments in the context of a
-realistic Python program that uses both Typer and Poetry. This third GitHub
-repository will include, for instance, the instructions needed to install the
-project's dependencies with Poetry, run the program to illustrate the
-command-line interface built with Typer, and use Poetry to first build the project's
-binary source and wheel archives and then publish the project to PyPI.
+realistic Python program that uses spaCy and Streamlit to create a chatbot.
+This third GitHub repository will include, for instance, the instructions
+needed to install the project's dependencies and then take steps to create,
+train, and deploy the convolutional neural network that classifies the text that
+a human sends to a chatbot. Software developers can use this third GitHub
+repository as a starting point for their own chatbots that integrate with
+third-party platforms such as Twilio or Slack.
 
 ## Talk Objectives
 
