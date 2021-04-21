@@ -52,4 +52,4 @@ the performance of a Python function.
 - The concept of order-of-growth as illustrate through examples of Python functions and their inputs
 - The ways in which the TaDa tool helps a programmer to automatically predict the order-of-growth for a Python function
 - Examples of the commands that a programmer would type to run the TaDa tool on their own Python functions
-- How to integrate TaDa into a realistic workflow for the Python programming and performance evaluation
+- How to integrate TaDa into a realistic workflow for Python programming and the evaluation of function performance
