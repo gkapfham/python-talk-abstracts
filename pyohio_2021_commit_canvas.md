@@ -38,12 +38,11 @@ that contains the Open Broadcaster Software templates that were used to create
 the video. The second GitHub repository to accompany this talk will include the
 source code for the presentation slides. Both of these repositories will make it
 possible for the people who watch the presentation to recreate all aspects of it
-for their own talks and videos. The presenter will also offer another repository
-that contains all the presented source code segments in the context of a
-realistic Python program. This third GitHub repository will include, for
-instance, the instructions needed to install the project's dependencies, run
-`mypy` to statically analyze the program's types, and then add types to
-resolve the issues raised by the type checker.
+for their own talks and videos. The third repository, currently available at
+[CommitCanvas](https://github.com/CommittedTeam/CommitCanvas), will include a
+full-featured implementation of the concepts presented in this talk. After
+watching this presentation, people can use the `pre-commit` tool to integrate
+CommitCanvas into their own Python project by pointing to this repository.
 
 ## Talk Objectives
 
