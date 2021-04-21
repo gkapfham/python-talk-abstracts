@@ -12,7 +12,7 @@ evaluation tools? If your experience is anything like mine, then you might have
 found the process confusing since, even though many tools have a significant
 number of configurations, they often don't share performance results in a
 helpful fashion. Faced with the challenge of understanding the performance of a
-Python function as its inputs grow larger, we built a tool called
+Python function as its inputs grow bigger, we built a tool called
 [TaDa](https://github.com/Tada-Project/tada) that automatically conducts an
 experiment and determines the likely "order of growth" for a Python function.
 
@@ -21,24 +21,11 @@ the same function. If TaDa predicts that the order-of-growth for one
 implementation is logarithmic for one implementation and quadratic for another,
 then a developer should pick the function with a logarithmic order-of-growth.
 TaDa can also help developers to better understand the performance of a specific
-function by revealing that its performance is likely, for instance, cubic and
-thus in need of significant improvements in speed.
-
-The good news is that
-there is a "sweet spot" that this presentation will introduce: using Typer to
-create the command-line interface and Poetry to manage application dependencies
-and virtual environments and upload the project to PyPI.
-
-Software developers who
-follow the steps outlined in this talk will be able to quickly and repeatably
-create command-line applications in Python that are available for everyone to
-install and use through programs like `pip` and `pipx`.
-
-After briefly overviewing the challenges associated with other approaches to
-
-
-People who watch this talk will gain the knowledge that they need to easily
-create full-fledged command-line applications in Python.
+function by revealing that its performance is, for instance, likely to be cubic
+and thus in need of significant improvements in speed. Although these concepts
+may, at first glance, seem both confusing and to good to be true, this
+presentation will help viewers to gain an eye-opening understanding of how to
+use TaDa to gain insights into the performance of Python functions.
 
 ## Additional Details
 
