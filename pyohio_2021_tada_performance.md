@@ -11,7 +11,18 @@ program only to find yourself overwhelmed with the number of performance
 evaluation tools? If your experience is anything like mine, then you might have
 found the process confusing since, even though many tools have a significant
 number of configurations, they often don't share performance results in a
-helpful fashion.
+helpful fashion. Faced with the challenge of understanding the performance of a
+Python function as its inputs grow larger, we built a tool called
+[TaDa](https://github.com/Tada-Project/tada) that automatically conducts an
+experiment and determines the likely "order of growth" for a Python function.
+
+For example, TaDa can help you to pick between two different implementations of
+the same function. If TaDa predicts that the order-of-growth for one
+implementation is logarithmic for one implementation and quadratic for another,
+then a developer should pick the function with a logarithmic order-of-growth.
+TaDa can also help developers to better understand the performance of a specific
+function by revealing that its performance is likely, for instance, cubic and
+thus in need of significant improvements in speed.
 
 The good news is that
 there is a "sweet spot" that this presentation will introduce: using Typer to
