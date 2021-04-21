@@ -30,19 +30,20 @@ use TaDa to gain insights into the performance of Python functions.
 ## Additional Details
 
 To ensure that the content in this presentation is most beneficial to the people
-who watch it, this talk will be accompanied by three GitHub repositories in
+who watch it, this talk will be accompanied by four GitHub repositories in
 addition to the video presentation. First, the presenter will share a repository
 that contains the Open Broadcaster Software templates that were used to create
 the video. The second GitHub repository to accompany this talk will include the
 source code for the presentation slides. Both of these repositories will make it
 possible for the people who watch the presentation to recreate all aspects of it
-for their own talks and videos. The presenter will also offer another repository
-that contains all the presented source code segments in the context of a
-realistic Python program that uses both Typer and Poetry. This third GitHub
-repository will include, for instance, the instructions needed to install the
-project's dependencies with Poetry, run the program to illustrate the
-command-line interface built with Typer, and use Poetry to first build the project's
-binary source and wheel archives and then publish the project to PyPI.
+for their own talks and videos. The third repository, currently available at
+[TaDa](https://github.com/Tada-Project/tada), will include the full source code
+and documentation for the TaDa tool. The final repository, currently available
+at [Speed-Surprises](https://github.com/Tada-Project/speed-surprises), will
+include sample Python functions for use with the TaDa tool. These final two
+GitHub repositories will make it possible for viewers of the presentation to try
+out the presented ideas and gain hands-on experience in using TaDa to understand
+the performance of a Python function.
 
 ## Talk Objectives
 
