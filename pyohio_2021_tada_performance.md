@@ -48,8 +48,8 @@ the performance of a Python function.
 
 ## Talk Objectives
 
-- The challenges associated with using alternative programs for interface creation and packaging
-- How to use Poetry to create a Python package for a program with a command-line interface
-- The way in which Typer connects a function's type annotations to a program's command-line interface
-- Examples of the commands needed to complete each project step, from creation and building to publishing on PyPI
-- The common pitfalls associated with using Typer and Poetry and easy-to-follow steps for resolving them
+- The challenges associated with using alternative programs for evaluating a Python program's performance
+- The concept of order-of-growth as illustrate through examples of Python functions and their inputs
+- The ways in which the TaDa tool helps a programmer to automatically predict the order-of-growth for a Python function
+- Examples of the commands that a programmer would type to run the TaDa tool on their own Python functions
+- How to integrate TaDa into a realistic workflow for the Python programming and performance evaluation
