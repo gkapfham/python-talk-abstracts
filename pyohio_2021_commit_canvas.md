@@ -3,7 +3,7 @@
 ## Proposal Title
 
 Committing to Writing Good Commit Messages: Supporting the Creation of Human
-and Machine-Readable Commit Messages with Python and Machine Learning
+and Machine-Readable Commit Messages with Python
 
 ## Description
 
