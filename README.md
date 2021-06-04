@@ -4,14 +4,18 @@
 
 This repository contains Markdown files of the abstracts for talks that I,
 [Gregory M. Kapfhammer](https://www.gregorykapfhammer.com/), have given at
-Python-related conferences, often in collaboration with my students and
-colleagues. I am making these available to the community so that others can
-review the details of talks accepted to this type of conference. Whenever
-appropriate, I have enhanced the abstracts to make references to the most
-up-to-date web sites and GitHub repositories.
+Python-related and industry-oriented conferences, often in collaboration with
+my students and colleagues. I am making these available to the community so
+that others can review the details of talks accepted to this type of
+conference. Whenever appropriate, I have enhanced the abstracts to make
+references to the most up-to-date web sites and GitHub repositories.
 
 This is a summary of the files containing abstracts for talks that I have given
 at Python-related conferences:
+
+- [PyCon Lightning Talk 2021: Committing to Writing Good Commit Messages:
+  Supporting the Creation of Human- and Machine-Readable Commit Messages with
+  Python](pycon_lightning_2021_commit_canvas.md)
 
 - [PyCon 2019 Poster Symposium: Automatic Detection of Pseudo-tested Methods
   Using Python and Pytest](pycon_2019_psuedotested_methods.md)
