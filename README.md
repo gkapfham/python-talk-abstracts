@@ -17,6 +17,9 @@ at Python-related conferences:
   Supporting the Creation of Human- and Machine-Readable Commit Messages with
   Python](pycon_lightning_2021_commit_canvas.md)
 
+- [PyOhio 2021: Type Annotations in Python: Terribly Intimidating or
+  Tremendously Informative?](pycon_lightning_2021_commit_canvas.md)
+
 - [PyCon 2019 Poster Symposium: Automatic Detection of Pseudo-tested Methods
   Using Python and Pytest](pycon_2019_psuedotested_methods.md)
 
