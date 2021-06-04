@@ -18,7 +18,14 @@ at Python-related conferences:
   Python](pycon_lightning_2021_commit_canvas.md)
 
 - [PyOhio 2021: Type Annotations in Python: Terribly Intimidating or
-  Tremendously Informative?](pycon_lightning_2021_commit_canvas.md)
+  Tremendously Informative?](pyohio_2021_type_annotations.md)
+
+- [Code PaLOUsa 2021: Great On Their Own, Even Better Together: Application
+  Development with Python, Typer, and
+  Poetry](codepalousa_2021_typer_poetry.md)
+
+- [TaDa it's Magic: Predicting the Performance of Python Functions through
+  Automated Doubling Experiments](codepalousa_2021_tada_performance.md)
 
 - [PyCon 2019 Poster Symposium: Automatic Detection of Pseudo-tested Methods
   Using Python and Pytest](pycon_2019_psuedotested_methods.md)
