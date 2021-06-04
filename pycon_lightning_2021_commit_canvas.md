@@ -32,11 +32,16 @@ their own commit messages.
 
 ## Talk Objectives
 
-- Introduction to the challenges associated with writing good Git commit messages
-- How Conventional Commits and the Angular standard partially address the challenge of writing commit messages
-- Explanation of how machine learning can automatically predict the label for a Git commit message
-- How to integrate the CommitCanvas tool into real-world workflows for developing Python projects
-- Insights into when the machine learning methods in CommitCanvas will and will not work well
+- Introduction to the challenges associated with writing good Git commit
+  messages
+- How Conventional Commits and the Angular standard partially address the
+  challenge of writing commit messages
+- Explanation of how machine learning can automatically predict the label for a
+  Git commit message
+- How to integrate the CommitCanvas tool into real-world workflows for
+  developing Python projects
+- Insights into when the machine learning methods in CommitCanvas will and will
+  not work well
 
 ## Presenter Biography
 
