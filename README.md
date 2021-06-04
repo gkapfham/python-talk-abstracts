@@ -24,8 +24,9 @@ at Python-related conferences:
   Development with Python, Typer, and
   Poetry](codepalousa_2021_typer_poetry.md)
 
-- [TaDa it's Magic: Predicting the Performance of Python Functions through
-  Automated Doubling Experiments](codepalousa_2021_tada_performance.md)
+- [Code PaLOUsa 2021: TaDa it's Magic: Predicting the Performance of Python
+  Functions through Automated Doubling
+  Experiments](codepalousa_2021_tada_performance.md)
 
 - [PyCon 2019 Poster Symposium: Automatic Detection of Pseudo-tested Methods
   Using Python and Pytest](pycon_2019_psuedotested_methods.md)
