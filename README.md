@@ -1,6 +1,6 @@
 # python-talk-abstracts
 
-[![Build Status](https://travis-ci.com/gkapfham/python-talk-abstracts.svg?branch=master)](https://travis-ci.com/gkapfham/python-talk-abstracts)
+![Build](https://github.com/gkapfham/www.gregorykapfhammer.com/actions/workflows/build.yml/badge.svg)
 
 This repository contains Markdown files of the abstracts for talks that I,
 [Gregory M. Kapfhammer](https://www.gregorykapfhammer.com/), have given at
