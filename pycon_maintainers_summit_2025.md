@@ -70,7 +70,15 @@ fiasco of flaky tests for software maintainers.
 
 The lead presenter, Gregory M. Kapfhammer, is an Associate Professor of Computer
 Science at Allegheny College. Along with conducting and publishing research on
-flaky tests, he has 
+flaky tests, he regularly develops and maintains open-source Python projects on
+GitHub. Gregory is a host of the popular Software Engineering Radio podcast,
+interviewing industry-leading experts from Google and Anthropic and maintainers
+of popular open-source Python projects like FastAPI, Hypothesis, Conda, and
+Pixi. He has spoken at both the PyCon Education Summit and a PyCon lightning
+talk session and presented posters in the PyCon Poster Symposium, in addition to
+giving presentations at PyOhio and PyGotham. He has also appeared as a guest on
+podcasts such as Software Engineering Radio, Talk Python, Stack Overflow
+Podcast, and Hanselminutes.
 
 ## Social Media
 
@@ -86,9 +94,3 @@ flaky tests, he has
 - Podcast Episodes hosted by Gregory M. Kapfhammer on Software Engineering Radio: https://se-radio.net/team/gregory-kapfhammer/
 - SpeakerDeck for Gregory M. Kapfhammer: https://speakerdeck.com/gkapfham
 - Podcast Episodes hosted by Gregory M. Kapfhammer on Software Engineering Radio: https://se-radio.net/team/gregory-kapfhammer/
-
-Gregory M. Kapfhammer has spoken at both the PyCon Education Summit and a PyCon
-lightning talk session  and presented posters in the PyCon Poster Symposium, in
-addition to giving presentations at PyOhio and PyGotham. He has also appeared as
-a guest on podcasts such as Software Engineering Radio, Talk Python, Stack
-Overflow Podcast, and Hanselminutes.
