@@ -1,4 +1,4 @@
-# Flaky Tests are a Fiasco! Practical Strategies for Maintainers to Handle of Test Flakiness
+# Flaky Tests are a Fiasco! Practical Strategies for Maintainers to Handle Test Flakiness
 
 ## Abstract
 
@@ -14,7 +14,7 @@ thereby taming the fiasco of flaky tests often faced by software maintainers.
 
 ## Key Takeaways
 
-- Developers often deal with flaky tests on a monthly, weekly, or daily basis
+- Developers often deal with flaky tests on a frequent basis
 - Concrete examples of flaky tests in real-world Python projects
 - Limitations of using automated test rerunning to find flaky tests
 - Machine learning techniques can automatically find flaky tests
