@@ -16,6 +16,9 @@ fiasco of flaky tests for software maintainers.
 
 - Developers often deal with flaky tests on a monthly, weekly, or daily basis
 - Concrete examples of flaky tests in real-world Python projects
+- Limitations of using automated test rerunning to find flaky tests
+- Machine learning techniques can automatically find flaky tests
+- Use of open-source tools that find flaky tests in Python projects
 
 ## Talk Outline
 
