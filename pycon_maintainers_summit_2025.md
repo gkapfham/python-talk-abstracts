@@ -139,6 +139,5 @@ https://www.gregorykapfhammer.com/blog/flake-it-till-you-make-it/
 
 - Research Papers by Gregory M. Kapfhammer: https://www.gregorykapfhammer.com/research/papers/
 - Presentations by Gregory M. Kapfhammer: https://www.gregorykapfhammer.com/research/presentations/
-- Podcast Episodes hosted by Gregory M. Kapfhammer on Software Engineering Radio: https://se-radio.net/team/gregory-kapfhammer/
 - SpeakerDeck for Gregory M. Kapfhammer: https://speakerdeck.com/gkapfham
 - Podcast Episodes hosted by Gregory M. Kapfhammer on Software Engineering Radio: https://se-radio.net/team/gregory-kapfhammer/
