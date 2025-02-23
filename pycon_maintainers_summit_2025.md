@@ -22,29 +22,29 @@ fiasco of flaky tests for software maintainers.
 
 ## Talk Outline
 
-### Introduction (1 min)
+### Introduction (2 min)
 
 - Definition of flaky tests
 - Impact on software maintenance
-- Brief overview of the problem scope
+- Brief overview of the "flaky test fiasco"
 
 ### The Scale of the Problem (2 min)
 
 - Survey results: 59% of developers face flaky tests regularly
-- Real costs to development teams
-- Common patterns in Python projects
+- Real costs that flaky tests introduce to development teams
+- Common test flakiness anti-patterns in Python projects
 
-### Real-world Examples of Flaky Tests (2 min)
+### Real-world Examples of Flaky Tests (3 min)
 
 - Example 1: Order and non-order dependent flaky tests
 - Example 2: Test flakiness from resource race conditions
 - Example 3: Flaky tests from external dependencies
 
-### Current Solutions and their Limitations (2 min)
+### Current Solutions and their Limitations (3 min)
 
+- Description of automated test rerunning techniques
 - Limitations of traditional detection methods
 - Concrete examples from open-source Python projects
-- Cost of manual investigation
 
 ### Machine Learning Approach (2 min)
 
@@ -52,7 +52,7 @@ fiasco of flaky tests for software maintainers.
 - Test case features that aid in flaky test detection
 - Evaluating the success of machine learning models in Python projects
 
-### Tools and Next Steps (1 min)
+### Tools and Next Steps (2 min)
 
 - Available open-source tools for handling flaky tests
 - Practical steps for maintainers to get started
@@ -62,9 +62,9 @@ fiasco of flaky tests for software maintainers.
 
 - Lead Presenter: Gregory M. Kapfhammer (Department of Computer and Information Science, Allegheny College)
 - Research Collaborators:
-    - Michael Hilton, School of Computer Science, Carnegie Mellon University
-    - Phil McMinn, Department of Computer Science, University of Sheffield
-    - Owain Parry, Department of Computer Science, University of Sheffield
+    - Michael Hilton, School of Computer Science, Carnegie Mellon University, USA
+    - Phil McMinn, Department of Computer Science, University of Sheffield, UK
+    - Owain Parry, Department of Computer Science, University of Sheffield, UK
 
 ## Speaker Intro
 
