@@ -48,12 +48,47 @@ fiasco of flaky tests for software maintainers.
 
 ### Machine Learning Approach (2 min)
 
-- How ML can detect patterns in test failures
-- Key indicators ML models look for
-- Success metrics in real projects
+- How machine learning can detect patterns in test failures
+- Test case features that aid in flaky test detection
+- Evaluating the success of machine learning models in Python projects
 
-### Tools and Next Steps (2 min)
+### Tools and Next Steps (1 min)
 
 - Available open-source tools for handling flaky tests
 - Practical steps for maintainers to get started
 - Resources for learning more about test flakiness
+
+## Full Names of Speakers
+
+- Lead Presenter: Gregory M. Kapfhammer (Department of Computer and Information Science, Allegheny College)
+- Research Collaborators:
+    - Michael Hilton, School of Computer Science, Carnegie Mellon University
+    - Phil McMinn, Department of Computer Science, University of Sheffield
+    - Owain Parry, Department of Computer Science, University of Sheffield
+
+## Speaker Intro
+
+The lead presenter, Gregory M. Kapfhammer, is an Associate Professor of Computer
+Science at Allegheny College. Along with conducting and publishing research on
+flaky tests, he has 
+
+## Social Media
+
+- Mastodon: https://fosstodon.org/@gkapfham
+- LinkedIn: http://www.linkedin.com/in/GregKapfhammer
+- Google Scholar: https://scholar.google.com/citations?user=g0eDPjYAAAAJ
+- Web: https://www.gregorykapfhammer.com/
+
+## Links to Slides or Videos of Previous Presentations
+
+- Research Papers by Gregory M. Kapfhammer: https://www.gregorykapfhammer.com/research/papers/
+- Presentations by Gregory M. Kapfhammer: https://www.gregorykapfhammer.com/research/presentations/
+- Podcast Episodes hosted by Gregory M. Kapfhammer on Software Engineering Radio: https://se-radio.net/team/gregory-kapfhammer/
+- SpeakerDeck for Gregory M. Kapfhammer: https://speakerdeck.com/gkapfham
+- Podcast Episodes hosted by Gregory M. Kapfhammer on Software Engineering Radio: https://se-radio.net/team/gregory-kapfhammer/
+
+Gregory M. Kapfhammer has spoken at both the PyCon Education Summit and a PyCon
+lightning talk session  and presented posters in the PyCon Poster Symposium, in
+addition to giving presentations at PyOhio and PyGotham. He has also appeared as
+a guest on podcasts such as Software Engineering Radio, Talk Python, Stack
+Overflow Podcast, and Hanselminutes.
