@@ -80,6 +80,45 @@ giving presentations at PyOhio and PyGotham. He has also appeared as a guest on
 podcasts such as Software Engineering Radio, Talk Python, Stack Overflow
 Podcast, and Hanselminutes.
 
+## Links to Blog Posts and Articles
+
+### Research Papers
+
+- "Beyond test flakiness: A manifesto for a holistic approach to test suite
+health", https://www.gregorykapfhammer.com/research/papers/mcminn2025/
+
+- "Empirically evaluating flaky test detection techniques combining test case
+rerunning and machine learning models",
+https://www.gregorykapfhammer.com/research/papers/parry2023/
+
+- "A survey of flaky tests",
+https://www.gregorykapfhammer.com/research/papers/parry2022/
+
+- "Evaluating features for machine learning detection of order- and
+non-order-dependent flaky tests",
+https://www.gregorykapfhammer.com/research/papers/parry2022a/
+
+- "https://www.gregorykapfhammer.com/research/papers/parry2022b/",
+https://www.gregorykapfhammer.com/research/papers/parry2022b/
+
+- "What do developer-repaired flaky tests tell us about the effectiveness of
+automated flaky test detection?",
+https://www.gregorykapfhammer.com/research/papers/parry2022c/
+
+- "Flake it till you make it: Using automated repair to induce and fix latent
+test flakiness", https://www.gregorykapfhammer.com/research/papers/parry2020/
+
+### Blog Posts
+
+- "Finding flaky tests with machine learning and the FLAKE16 feature set",
+https://www.gregorykapfhammer.com/blog/flake16-new-frontier-flaky-tests/
+
+- "What do developers say about flaky tests? Well ... 'They Suck'!",
+https://www.gregorykapfhammer.com/blog/flaky-test-developer-survey/
+
+- "You gotta flake it till you make it! Tackling flaky tests with FITTER",
+https://www.gregorykapfhammer.com/blog/flake-it-till-you-make-it/
+
 ## GitHub Repositories
 
 - Gregory Kapfhammer's GitHub Profile: https://github.com/gkapfham
@@ -87,6 +126,7 @@ Podcast, and Hanselminutes.
 - CANNIER's Pytest Plugin: https://github.com/flake-it/pytest-cannier
 - TestInspect Pytest Plugin: https://github.com/flake-it/testinspect
 - ShowFlakes Pytest Plugin: https://github.com/flake-it/showflakes
+- Annotated Bibliography on Flaky Tests: https://github.com/flake-it/flaky-tests-bibliography
 
 ## Social Media
 
