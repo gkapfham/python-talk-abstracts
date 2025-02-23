@@ -80,6 +80,14 @@ giving presentations at PyOhio and PyGotham. He has also appeared as a guest on
 podcasts such as Software Engineering Radio, Talk Python, Stack Overflow
 Podcast, and Hanselminutes.
 
+## GitHub Repositories
+
+- Gregory Kapfhammer's GitHub Profile: https://github.com/gkapfham
+- CANNIER Tool for Flaky Test Detection: https://github.com/flake-it/cannier-framework 
+- CANNIER's Pytest Plugin: https://github.com/flake-it/pytest-cannier
+- TestInspect Pytest Plugin: https://github.com/flake-it/testinspect
+- ShowFlakes Pytest Plugin: https://github.com/flake-it/showflakes
+
 ## Social Media
 
 - Mastodon: https://fosstodon.org/@gkapfham
