@@ -30,6 +30,7 @@ Science, Allegheny College)
     - Pydantic
     - LSP in VSCode
     - Fuzzers
+    - Mutation testing
 
 ### Overview of the Chosen Tool Ecosystem
 
@@ -38,6 +39,9 @@ Science, Allegheny College)
     - Ruff for linting
     - Mypy for type checking
     - Symbex for basic static analysis
+    - Pytest for automated testing
+    - Coverage.py for test coverage analysis
+    - Mutmut for mutation testing
 
 - Bespoke tools that we created and maintain:
     - Chasten for configurable static analysis
@@ -48,6 +52,9 @@ Science, Allegheny College)
 ### Introduction to a GitHub-based Workflow
 
 - Instructor creates a solution with passing checks
+    - Complete implementation of project or examination
+    - Configure checking tools and integrate them with GatorGrader
+    - Confirm that all checks pass locally and in GitHub Actions
 
 ### Current Solutions and their Limitations
 
@@ -60,8 +67,6 @@ Science, Allegheny College)
 - Available open-source tools for handling flaky tests
 - Practical steps for maintainers to get started
 - Resources for learning more about test flakiness
-
-
 
 ## Speaker Intro
 
