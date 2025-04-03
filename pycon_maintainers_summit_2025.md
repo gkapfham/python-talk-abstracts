@@ -122,7 +122,7 @@ https://www.gregorykapfhammer.com/blog/flake-it-till-you-make-it/
 ## GitHub Repositories
 
 - Gregory Kapfhammer's GitHub Profile: https://github.com/gkapfham
-- CANNIER Tool for Flaky Test Detection: https://github.com/flake-it/cannier-framework 
+- CANNIER Tool for Flaky Test Detection: https://github.com/flake-it/cannier-framework
 - CANNIER's Pytest Plugin: https://github.com/flake-it/pytest-cannier
 - TestInspect Pytest Plugin: https://github.com/flake-it/testinspect
 - ShowFlakes Pytest Plugin: https://github.com/flake-it/showflakes
