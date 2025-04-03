@@ -8,7 +8,7 @@ Python-related and industry-oriented conferences, often in collaboration with
 my students and colleagues. I am making these available to the community so
 that others can review the details of talks accepted to this type of
 conference. Whenever appropriate, I have enhanced the abstracts to make
-references to the most up-to-date web sites and GitHub repositories.
+references to the most up-to-date websites and GitHub repositories.
 
 This is a summary of the files containing abstracts for talks that I have given
 at Python-related conferences:
