@@ -17,29 +17,37 @@ Science, Allegheny College)
 
 ## Talk Outline
 
-### Demonstrating the Benefits
+### Demonstrating the Benefits of Typing
 
 - Courses from which lessons arise
     - Software engineering
     - Algorithm analysis
-- Use tools that benefit from type annotations
+    - Next semester: Computing Theory
+- Projects that use frameworks benefiting from type annotations
     - FastAPI
     - Typer
     - Hypothesis
     - Pydantic
     - LSP in VSCode
+    - Fuzzers
 
-### The Scale of the Problem
+### Overview of the Chosen Tool Ecosystem
 
-- Survey results: 59% of developers face flaky tests regularly
-- Real costs that flaky tests introduce to development teams
-- Common test flakiness anti-patterns in Python projects
+- Tools from the Python ecosystem:
+    - Package and project management with Poetry or uv
+    - Ruff for linting
+    - Mypy for type checking
+    - Symbex for basic static analysis
 
-### Real-world Examples of Flaky Tests
+- Bespoke tools that we created and maintain:
+    - Chasten for configurable static analysis
+    - Alchemast for source code transformation
+    - GatorGrader for assessment and feedback
+    - ExecExam for creating and grading examinations
 
-- Example 1: Order and non-order dependent flaky tests
-- Example 2: Test flakiness from resource race conditions
-- Example 3: Flaky tests from external dependencies
+### Introduction to a GitHub-based Workflow
+
+- Instructor creates a solution with passing checks
 
 ### Current Solutions and their Limitations
 
