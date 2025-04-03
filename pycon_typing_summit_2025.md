@@ -55,11 +55,12 @@ Science, Allegheny College)
     - Complete implementation of project or examination
     - Configure checking tools and integrate them with GatorGrader
     - Confirm that all checks pass locally and in GitHub Actions
-- Instructor creates a solution with purposefully failing checks
+- Instructor creates a starter with purposefully failing checks
     - Use Alchemast to transform source code of the solution:
-        - Remove and/or weaken type annotations
+        - Weaken or remove type annotations
+        - Remove assertions and type checks
         - Remove method bodies, comments, and docstrings
-    - Confirm that all checks fail locally and in GitHub Actions
+    - Confirm that designated checks fail locally and in GitHub Actions
 
 ### Current Solutions and their Limitations
 
