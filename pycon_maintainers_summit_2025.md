@@ -1,5 +1,7 @@
 # Flaky Tests are a Fiasco! Practical Strategies for Maintainers to Handle Test Flakiness
 
+NOTE: This talk proposal was not accepted.
+
 ## Abstract
 
 When test cases fail inconsistently without changes to the code under test they
