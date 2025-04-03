@@ -45,9 +45,9 @@ Science, Allegheny College)
 
 - Bespoke tools that we created and maintain:
     - Chasten for configurable static analysis
-    - Alchemast for source code transformation
     - GatorGrader for assessment and feedback
     - ExecExam for creating and grading examinations
+    - Alchemast for source code transformation
 
 ### Introduction to a GitHub-based Workflow
 
@@ -55,6 +55,11 @@ Science, Allegheny College)
     - Complete implementation of project or examination
     - Configure checking tools and integrate them with GatorGrader
     - Confirm that all checks pass locally and in GitHub Actions
+- Instructor creates a solution with purposefully failing checks
+    - Use Alchemast to transform source code of the solution:
+        - Remove and/or weaken type annotations
+        - Remove method bodies, comments, and docstrings
+    - Confirm that all checks fail locally and in GitHub Actions
 
 ### Current Solutions and their Limitations
 
