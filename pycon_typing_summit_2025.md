@@ -7,21 +7,27 @@ Science, Allegheny College)
 
 ## Abstract
 
-
 ## Key Takeaways
 
 - Practical ways to demonstrate the benefits of type annotations
-- Overview of a tool ecosystem for 
-- 
-- 
+- Overview of a tool ecosystem for teaching about types in Python
+- Introduction to a GitHub-based workflow for creating projects and examinations
+- Suggestions for ways to empirically study the benefits of type annotations
+- A wishlist of features for enhancing the usability of type checks for learners
 
 ## Talk Outline
 
-### Introduction
+### Demonstrating the Benefits
 
-- Definition of flaky tests
-- Impact on software maintenance
-- Brief overview of the "flaky test fiasco"
+- Courses from which lessons arise
+    - Software engineering
+    - Algorithm analysis
+- Use tools that benefit from type annotations
+    - FastAPI
+    - Typer
+    - Hypothesis
+    - Pydantic
+    - LSP in VSCode
 
 ### The Scale of the Problem
 
