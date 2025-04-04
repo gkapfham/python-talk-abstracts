@@ -88,11 +88,10 @@ productivity of Python learners and/or their ability to write correct code?
     - Are open-source Python projects configured to automatically detect
       common linting and type checking errors?
 
-### Tools and Next Steps (2 minutes)
+### Wishlist for Enhancing the Usability of Type Checks
 
-- Available open-source tools for handling flaky tests
-- Practical steps for maintainers to get started
-- Resources for learning more about test flakiness
+- Automatically generate a function input that triggers a detected type error
+- 
 
 ## Speaker Intro
 
@@ -100,13 +99,13 @@ Gregory M. Kapfhammer is an Associate Professor of Computer and Information
 Science at Allegheny College. Along with conducting and publishing research on
 flaky tests, he regularly develops and maintains open-source Python projects on
 GitHub. Gregory is a host of the popular Software Engineering Radio podcast,
-where he interviews industry-leading experts from Google and Anthropic and
-maintainers of popular open-source Python projects like FastAPI, Hypothesis,
-Conda, and Pixi. He has spoken at both the PyCon Education Summit and a PyCon
-lightning talk session and presented posters in the PyCon Poster Symposium, in
-addition to giving presentations at PyOhio and PyGotham. He has also appeared
-as a guest on podcasts such as Software Engineering Radio, Talk Python, the
-Stack Overflow Podcast, and Hanselminutes.
+where he interviews industry-leading experts from companies like Google and
+Anthropic and maintainers of popular open-source Python projects like FastAPI,
+Hypothesis, Conda, and Pixi. He has spoken at both the PyCon Education Summit
+and a PyCon lightning talk session and presented posters in the PyCon Poster
+Symposium, in addition to giving presentations at PyOhio and PyGotham. He has
+also appeared as a guest on podcasts such as Software Engineering Radio, Talk
+Python, the Stack Overflow Podcast, and Hanselminutes.
 
 ## Research Paper References
 
