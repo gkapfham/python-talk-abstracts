@@ -82,6 +82,11 @@ Science, Allegheny College)
     at the benefits of type annotations from a different perspective?
 - How can we empirically study whether or not typing enhances either the
 productivity of Python learners and/or their ability to write correct code?
+    - Does type checking detect defects introduced by learners?
+    - Does type checking detect defects created by mutation testing tools?
+    - What is the correlation between real-world defects and mutants?
+    - Are open-source Python projects configured to automatically detect
+      common linting and type checking errors?
 
 ### Tools and Next Steps (2 minutes)
 
