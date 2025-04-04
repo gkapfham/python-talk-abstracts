@@ -68,12 +68,14 @@ Science, Allegheny College)
 ### Studying the Benefits of Typing
 
 - Is there evidence to share with students that typing is beneficial?
-    - Gopinath and Walkingshaw, Mutation 2017: "(1) the mutants killed by the
-    type checker were a strict subset of the mutants killed by the test suite,
-    and (2) simple type annotations were just as effective at killing mutants
-    as more sophisticated type annotations."
-    - 
-
+    - Gopinath and Walkingshaw, Mutation 2017 workshop paper: "(1) the mutants
+    killed by the type checker were a strict subset of the mutants killed by
+    the test suite, and (2) simple type annotations were just as effective at
+    killing mutants as more sophisticated type annotations."
+    - This study presents a negative result! Can we conduct new experiments to
+    look at the benefits of type annotations from a different perspective?
+- How can we empirically study whether or not typing enhances the productivity
+of Python learners or enhances their ability to write correct code?
 
 ### Tools and Next Steps (2 minutes)
 
