@@ -91,9 +91,9 @@ productivity of Python learners and/or their ability to write correct code?
 
 ## Speaker Intro
 
-Gregory M. Kapfhammer, is an Associate Professor of Computer Science at
-Allegheny College. Along with conducting and publishing research on flaky
-tests, he regularly develops and maintains open-source Python projects on
+Gregory M. Kapfhammer is an Associate Professor of Computer and Information
+Science at Allegheny College. Along with conducting and publishing research on
+flaky tests, he regularly develops and maintains open-source Python projects on
 GitHub. Gregory is a host of the popular Software Engineering Radio podcast,
 where he interviews industry-leading experts from Google and Anthropic and
 maintainers of popular open-source Python projects like FastAPI, Hypothesis,
