@@ -118,3 +118,8 @@ python: an empirical study. In Proceedings of the 30th ACM Joint European
 Software Engineering Conference and Symposium on the Foundations of Software
 Engineering (ESEC/FSE 2022). Association for Computing Machinery, New York, NY,
 USA, 209–220. https://doi.org/10.1145/3540250.3549114
+
+- Yimeng Guo, Zhifei Chen, Lin Chen, Wenjie Xu, Yanhui Li, Yuming Zhou, and
+Baowen Xu. 2024. Generating Python Type Annotations from Type Inference: How
+Far Are We? ACM Trans. Softw. Eng. Methodol. 33, 5, Article 123 (June 2024), 38
+pages. https://doi.org/10.1145/3652153
