@@ -80,8 +80,8 @@ Science, Allegheny College)
     better than tests and that, moreover, programmers commit code that has
     statically detectable type errors. Can we conduct new experiments to look
     at the benefits of type annotations from a different perspective?
-- How can we empirically study whether or not typing enhances the productivity
-of Python learners or enhances their ability to write correct code?
+- How can we empirically study whether or not typing enhances either the
+productivity of Python learners and/or their ability to write correct code?
 
 ### Tools and Next Steps (2 minutes)
 
@@ -100,8 +100,8 @@ maintainers of popular open-source Python projects like FastAPI, Hypothesis,
 Conda, and Pixi. He has spoken at both the PyCon Education Summit and a PyCon
 lightning talk session and presented posters in the PyCon Poster Symposium, in
 addition to giving presentations at PyOhio and PyGotham. He has also appeared
-as a guest on podcasts such as Software Engineering Radio, Talk Python, Stack
-Overflow Podcast, and Hanselminutes.
+as a guest on podcasts such as Software Engineering Radio, Talk Python, the
+Stack Overflow Podcast, and Hanselminutes.
 
 ## Research Paper References
 
