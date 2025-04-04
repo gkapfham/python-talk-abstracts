@@ -105,11 +105,12 @@ productivity of Python learners and/or their ability to write correct code?
 
 ### Wishlist for Enhancing the Usability of Type Checks
 
-- Automatically generate a program (or function) input that triggers an error
-detected by a type checker
+- Automatically generate an input for a program (or function) that triggers an
+error detected by a type checker
 - Provide a natural language description for why a detected type error could
 lead to a runtime error
-- Give a clear suggestion for how to fix a detected type error
+- Give a simple, yet actionable, suggestion for how to fix a detected type
+error
 
 ## Speaker Intro
 
