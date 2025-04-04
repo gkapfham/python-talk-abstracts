@@ -7,6 +7,21 @@ Science, Allegheny College)
 
 ## Abstract
 
+Type annotations in Python have evolved from an optional feature to a
+cornerstone of modern development practices, yet their integration into
+computer science and software engineering education remains uneven. This talk
+explores practical strategies for teaching Python type annotations in
+undergraduate computer science courses, drawing from real classroom experiences
+at Allegheny College. I will present a comprehensive approach that leverages
+both standard Python tooling and custom-built educational frameworks to create
+scaffolded learning experiences. Along with showing how type annotations can be
+integrated into both project-based learning and executable examinations, this
+presentation will use prior empirical results about type checking to suggest
+areas for future engineering and empirical studies. This talk is designed for
+educators seeking to incorporate up-to-date Python practices into their
+curriculum and for tool developers interested in enhancing the learning
+experience around type systems and type checking in Python.
+
 ## Key Takeaways
 
 - Practical ways to demonstrate the benefits of type annotations
@@ -94,6 +109,7 @@ productivity of Python learners and/or their ability to write correct code?
 detected by a type checker
 - Provide a natural language description for why a detected type error could
 lead to a runtime error
+- Give a clear suggestion for how to fix a detected type error
 
 ## Speaker Intro
 
