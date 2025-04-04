@@ -52,7 +52,7 @@ Science, Allegheny College)
 ### Introduction to a GitHub-based Workflow
 
 - Instructor creates a solution with passing checks
-    - Complete implementation of project or examination
+    - Create a complete implementation of project or examination
     - Configure checking tools and integrate them with GatorGrader
     - Confirm that all checks pass locally and in GitHub Actions
 - Instructor creates a starter with purposefully failing checks
@@ -61,12 +61,19 @@ Science, Allegheny College)
         - Remove assertions and type checks
         - Remove method bodies, comments, and docstrings
     - Confirm that designated checks fail locally and in GitHub Actions
+- Create a new project configuration in GitHub Classroom
+- Invite students to the project or examination through GitHub Classroom
+- Students complete project while running checks locally and in GitHub Actions
 
-### Current Solutions and their Limitations
+### Studying the Benefits of Typing
 
-- Description of automated test rerunning techniques
-- Limitations of traditional detection methods
-- Concrete examples from open-source Python projects
+- Is there evidence to share with students that typing is beneficial?
+    - Gopinath and Walkingshaw, Mutation 2017: "(1) the mutants killed by the
+    type checker were a strict subset of the mutants killed by the test suite,
+    and (2) simple type annotations were just as effective at killing mutants
+    as more sophisticated type annotations."
+    - 
+
 
 ### Tools and Next Steps (2 minutes)
 
@@ -88,3 +95,8 @@ addition to giving presentations at PyOhio and PyGotham. He has also appeared as
 a guest on podcasts such as Software Engineering Radio, Talk Python, Stack
 Overflow Podcast, and Hanselminutes.
 
+## Research Paper References
+
+- Lukas Lazarek, Ben Greenman, Matthias Felleisen, and Christos Dimoulas. 2021.
+How to evaluate blame for gradual types. Proc. ACM Program. Lang. 5, ICFP,
+Article 68 (August 2021), 29 pages. https://doi.org/10.1145/3473573
