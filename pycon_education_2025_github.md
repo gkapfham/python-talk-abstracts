@@ -18,4 +18,4 @@ skills that they will need to start using GitHub Classroom in their next class.
 
 - Understand the benefits of using version control, Git, and GitHub
 - Create a solution to a Python programming project with passing automated checks
-- Create a starter solution remove implementation and purposefully failing checks
+- Use implementation ablation to design a starter with purposefully failing checks
