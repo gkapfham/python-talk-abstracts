@@ -1,20 +1,18 @@
-# "Automated and Configurable Program Analysis and Linting with Chasten"
+# "Automated and Configurable Programming Project Checking with Chasten"
 
 ## Abstract
 
-
-
-Stop wrestling with regular expressions (regex) and complex abstract syntax tree
-(AST)-based frameworks to analyze and lint your Python code! Chasten offers an
-elegant solution by leveraging XPath expressions to search Python's abstract
-syntax tree, making static code analysis both powerful and accessible. In this
-talk, you'll discover how to implement custom linting rules, enforce coding
-standards, and perform sophisticated pattern matching in your Python projects
-using a tool designed for both simplicity and flexibility. Whether you're a
-developer tired of writing fragile regex patterns, an instructor validating
-student code, or a project maintainer who wants to ensure code quality, Chasten
-provides the perfect balance of power and usability for your static analysis
-needs. More details about chasten are available at:
+Instructors who invite their students to complete programming assignments often
+need automated tools to confirm that a submission meets the stated requirements.
+Although it is possible to use regular expressions or abstract syntax tree
+parsing to perform these types of checks, these approaches are often either
+error-prone or time-consuming to build. This talk presents Chasten, a Python
+tool that offers an elegant solution by leveraging XPath expressions to search
+Python's abstract syntax tree, making static code analysis both powerful and
+accessible. This presentation explains how teachers can implement custom linting
+rules, enforce coding standards, and perform sophisticated pattern matching on a
+student's Python programming project. More details about freely available and
+open-source Chasten tool are available at:
 https://github.com/AstuteSource/chasten.
 
 ## Key Takeaways
