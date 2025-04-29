@@ -17,14 +17,15 @@ https://github.com/AstuteSource/chasten.
 
 ## Key Takeaways
 
-- Create custom linting rules through simple YAML configuration
+- Learn how Chasten fits into a workflow for project-centric learning
+- Create custom linting rules through a simple YAML configuration
 - Practical examples of enforcing code standards on documentation and code
 - Ways to analyze results through interactive dashboards with Datasette
-- How to integrate Chasten into development workflow and CI/CD pipelines
+- How to integrate Chasten into GitHub Classroom and GitHub Actions
 
 ## Talk Outline
 
-### Introduction: The Problem with Static Analysis (3 minutes)
+### Introduction: The Problem with Static Analysis (5 minutes)
 
 - The limitations of regex for code analysis
 - The complexity of traditional AST analysis frameworks
