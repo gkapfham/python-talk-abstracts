@@ -24,10 +24,10 @@ https://github.com/GatorEducator/execexam.
 
 ## Key Takeaways
 
-- Learn why executable examinations are more effective than traditional assessments
-- Implement Python programming tasks that can be automatically assessed
+- Learn the benefits of executable examinations for assessing programming skill
 - Master the use of testing frameworks to verify student code submissions
 - Design scaffolded programming challenges with appropriate difficulty levels
 - Deploy context-aware feedback systems that help students learn from mistakes
 - Integrate automated assessment tools into your existing teaching workflow
 - Create a more equitable evaluation process through consistent automated grading
+- Learn how to use local and cloud-based LLMs to provide context-aware feedback
