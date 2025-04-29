@@ -1,4 +1,4 @@
-# "Using ExecExam to Facilitate Effective Executable Examinations"
+# "ExecExam: A Tool to Facilitate Effective Executable Examinations in Python"
 
 ## Abstract
 
@@ -17,6 +17,9 @@ Instead of receiving output from a single failed test assertion, students using
 ExecExam see a detailed report of all failing checks and specific suggestions
 for code fixes or alternative approaches that will enable the student's project
 to pass the tests.
+
+this talk will equip teachers with the knowledge and
+skills that they will need to start using GitHub Classroom in their next class.
 
 These additions make ExecExam more than
 just a Pytest test runner, offering educators and students a comprehensive
