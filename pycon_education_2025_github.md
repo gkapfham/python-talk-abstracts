@@ -16,6 +16,10 @@ skills that they will need to start using GitHub Classroom in their next class.
 
 ## Key Takeaways
 
-- Understand the benefits of using version control, Git, and GitHub
+- Understand the benefits of using version control, Git, GitHub, and GitHub Actions
 - Create a solution to a Python programming project with passing automated checks
 - Use implementation ablation to design a starter with purposefully failing checks
+- Create a GitHub Classroom assignment using the GitHub repository for the starter
+- Invite students to the complete the assignment through GitHub Classroom
+- Offer automated feedback using GitHub Actions and automated checking tools
+- Furnish comprehensive feedback through the use of GitHub issues and pull requests
