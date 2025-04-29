@@ -24,16 +24,12 @@ skills that they will need to start using GitHub Classroom in their next class.
 - Offer automated feedback using GitHub Actions and automated checking tools
 - Furnish comprehensive feedback through the use of GitHub issues and pull requests
 
-References to Online Course Web Site:
+## References to Online Course Web Site
 
 - [Algorithm Analysis](https://www.algorithmology.org): Implement and evaluate correct and efficient algorithms
 - [Computer Security](https://www.securitysynapse.org/): Explore computer security
 principles and practices
 - [Data Abstraction](https://www.proactiveprogrammers.com/data-abstraction/introduction-data-abstraction/): Build and manipulate correct and efficient data structures
 - [Discrete Structures](https://www.proactiveprogrammers.com/discrete-structures/introduction-discrete-structures/): Clearly connect mathematics to Python programming
-
-- [Operating Systems](https://www.os-sketch.com/): Build and understand
-operating system components
-
-- [Software Engineering](https://www.developerdevelopment.com/): Team-based
-introduction to building software systems
+- [Operating Systems](https://www.os-sketch.com/): Build and understand operating system components
+- [Software Engineering](https://www.developerdevelopment.com/): Team-based introduction to building software systems
