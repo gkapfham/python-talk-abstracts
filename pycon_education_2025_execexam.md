@@ -8,38 +8,19 @@ assessment enables teachers to determine whether or not a learner can
 effectively use a suite of software development tools to implement a program
 that meets a specification. After highlighting the challenges associated with
 delivering and assessing executable examinations at scale, this presentation
-introduces ExecExam, a tool designed to streamline and automate the assessment
-of Python programming tasks. Leveraging an integration with both local and
+introduces ExecExam, a tool that streamlines and automates the assessment of
+Python programming tasks. Leveraging an integration with both local and
 cloud-based LLMs, ExecExam provides sophisticated, context-aware feedback for
 failing Pytest tests, guiding students towards the effective resolution of
 errors while fostering a deeper understanding of Python programming concepts.
 Instead of receiving output from a single failed test assertion, students using
 ExecExam see a detailed report of all failing checks and specific suggestions
 for code fixes or alternative approaches that will enable the student's project
-to pass the tests.
-
-this talk will equip teachers with the knowledge and
-skills that they will need to start using GitHub Classroom in their next class.
-
-These additions make ExecExam more than
-just a Pytest test runner, offering educators and students a comprehensive
-assessment and learning tool. The system generates detailed reports summarizing
-test outcomes, highlighting successes as well as areas needing improvement.
-
-ExecExam also has an optional inclusion of large language models (LLMs), which
-provide students with detailed, step-by-step recommendations on how to fix their
-code. With the integration of LiteLLM, a unified API, this tool provides
-sophisticated, context-aware feedback for failing tests, guiding students toward
-effective resolution of errors while fostering a deeper understanding of
-programming concepts. Unlike simply receiving a list of failed tests, students
-can obtain specific suggestions for code fixes or alternative approaches that
-will pass the tests. This method cultivates a student’s programming education by
-giving them steps on how to improve.
-
-ExecExam helps instructors identify areas for improvement and empowers students
-to acknowledge their mistakes and enhance their skills. Currently used by
-college students and instructors, this tool proves valuable in computer science
-education, particularly for Python learners.
+to pass the tests. In addition to overviewing the design and implementation of
+ExecExam, this talk will equip teachers with the knowledge needed to deploy
+their own executable examinations with the ExecExam tool. More details about the
+ExecExam tool is available in its open-source GitHub repository available at
+https://github.com/GatorEducator/execexam.
 
 ## Key Takeaways
 
