@@ -4,14 +4,15 @@
 
 An executable examinations invites a learner to write, modify, and/or execute
 Python source code to solve well-specified programming problems. This type of
-assessment enables teachers to assess whether or not a learner can effectively
-use a software development tool suite to implement a program that meets a
-specification. Given the challenges associated with delivering and assessing
-executable examinations at scale, this presentation introduces ExecExam, a tool
-designed to streamline and automate the assessment of Python programming tasks.
-Along with leveraging Pytest to automatically verify student solutions against
-pre-defined tests, ExecExam uses large language models (LLMs) to offer context
-sensitive advice to students who are struggling to solve a programming problem.
+assessment enables teachers to determine whether or not a learner can
+effectively use a suite of software development tools to implement a program
+that meets a specification. After highlighting the challenges associated with
+delivering and assessing executable examinations at scale, this presentation
+introduces ExecExam, a tool designed to streamline and automate the assessment
+of Python programming tasks. Along with leveraging Pytest to automatically
+verify student solutions against pre-defined tests, ExecExam uses large language
+models (LLMs) to offer context sensitive advice to students who are struggling
+to solve a programming problem.
 
 
 These additions make ExecExam more than
