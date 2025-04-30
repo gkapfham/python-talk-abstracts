@@ -1,4 +1,4 @@
-# "Building and Deploying Course Web Sites with Python, Quarto, and Mkdocs"
+# "Building and Deploying Course Websites with Python, Quarto, and Mkdocs"
 
 ## Abstract
 
