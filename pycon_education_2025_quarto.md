@@ -18,7 +18,7 @@ make it a compelling alternative for educators who need to build a course site.
 
 ## Key Takeaways
 
-- Understand the relative strengths of Quarto and Material for Mkdocs for course websites 
+- Understand the relative strengths of Quarto and Material for Mkdocs for course websites
 - Create consistent course websites featuring documentation and presentation slides
 - Design an automated deployment workflow for course websites using GitHub Actions
 - Structure course content to maximize student engagement and accessibility
